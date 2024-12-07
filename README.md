@@ -1,0 +1,1 @@
+This repository showcases a common JavaScript error related to improper handling of null or undefined values within functions. The `bug.js` file contains the erroneous code, demonstrating how neglecting these edge cases can lead to unexpected behavior or errors. The `bugSolution.js` file provides a corrected version that handles both null and undefined values gracefully.
